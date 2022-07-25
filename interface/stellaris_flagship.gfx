@@ -1,0 +1,17 @@
+spriteTypes = { # If editing an existing .gfx file then this line will likely already be there, so you might not need to write this. However, make sure the following are inside this.
+    spriteType = {
+        name = "GFX_flagship_focused_arc_emitter"	
+        texturefile = "gfx//interface//stellaris_flagship//arc.dds"
+        loadType = "INGAME"
+    }
+    spriteType = {
+        name = "GFX_flagship_jump_drive"	
+        texturefile = "gfx//interface//stellaris_flagship//drive.dds"
+        loadType = "INGAME"
+    }
+    spriteType = {
+        name = "GFX_flagship_crystal_plating"	
+        texturefile = "gfx//interface//stellaris_flagship//plate.dds"
+        loadType = "INGAME"
+    }
+}
