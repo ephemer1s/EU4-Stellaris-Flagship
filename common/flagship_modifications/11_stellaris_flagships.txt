@@ -1,6 +1,6 @@
 focused_arc_emitter = {
 	modifier = {
-        flagship_cost = 3.3
+        flagship_cost = 3.33
         number_of_cannons_flagship_modifier = 10
 	}
     ai_trade_score = {
@@ -11,11 +11,23 @@ focused_arc_emitter = {
     }
 }
 
-
 jump_drive = {
 	modifier = {
-        flagship_cost = 3.3
+        flagship_cost = 3.33
         movement_speed_in_fleet_modifier = 10
+	}
+    ai_trade_score = {
+        factor = 0
+    }
+    ai_war_score = {
+        factor = 0
+    }
+}
+
+crystal_plating = {
+	modifier = {
+        flagship_cost = 3.33
+        flagship_durability = 10
 	}
     ai_trade_score = {
         factor = 0
