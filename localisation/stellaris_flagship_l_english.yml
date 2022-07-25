@@ -1,4 +1,7 @@
-l_english:
+﻿l_english:
  focused_arc_emitter:0 "Focused Arc Emitter"
+ focused_arc_emitter_desc:0 "These upgraded emitters are equipped with better focusing lenses, resulting in a more powerful energy discharge."
  jump_drive:0 "Jump Drive"
+ jump_drive_desc:0 "The Jump Drive tears ship-sized holes in the very fabric of reality, allowing for near-instantaneous movement between systems. The nature of the space the ship passes through on this journey is still poorly understood."
  crystal_plating:0 "Crystal-Forged Plating"
+ crystal_plating_desc:0 "Introducing Crystalline matter into the forging process further improves the ultra-hard qualities of crystal-infused metals."
